@@ -1,0 +1,1191 @@
+[
+  {
+    "name": "A 1 HD",
+    "url": "https://cool-tv.net/ch/an1.htm",
+    "logo": "https://cool-tv.net/default/webp/8674-a1hd.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Acasa Gold",
+    "url": "https://cool-tv.net/ch/acasatv-gold.htm",
+    "logo": "https://cool-tv.net/default/webp/022-Acasa_Gold.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Acasa TV",
+    "url": "https://cool-tv.net/ch/acasatv.htm",
+    "logo": "https://cool-tv.net/default/webp/1124-acasa-hd.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/acasatv.html",
+      "https://canale-tv.net/channel/acasatv.html"
+    ]
+  },
+  {
+    "name": "AStars",
+    "url": "https://cool-tv.net/ch/an2-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/5633-astars.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Canal 33",
+    "url": "https://cool-tv.net/ch/canal-33.htm",
+    "logo": "https://cool-tv.net/default/webp/canal-33.png",
+    "categories": [
+      "Generale",
+      "Știri"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Dizi",
+    "url": "https://cool-tv.net/ch/dizy.htm",
+    "logo": "https://cool-tv.net/default/webp/dizi.png",
+    "categories": [
+      "Generale",
+      "Filme"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/dizy.html",
+      "https://canale-tv.net/channel/dizy.html"
+    ]
+  },
+  {
+    "name": "Film B0X",
+    "url": "https://cool-tv.net/ch/filmbox-live.htm",
+    "logo": "https://cool-tv.net/default/webp/filmbox.png",
+    "categories": [
+      "Generale",
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Film B0X Extra",
+    "url": "https://cool-tv.net/ch/filmbox-extra.htm",
+    "logo": "https://cool-tv.net/default/webp/filmbox-extra.png",
+    "categories": [
+      "Generale",
+      "Filme"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/fbox-extra.html",
+      "https://canale-tv.net/channel/fbox-extra.html"
+    ]
+  },
+  {
+    "name": "Film B0X Premium",
+    "url": "https://cool-tv.net/ch/filmbox-premium-live.htm",
+    "logo": "https://cool-tv.net/default/webp/filmbox-premium.png",
+    "categories": [
+      "Generale",
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Film Cafe",
+    "url": "https://cool-tv.net/ch/film-cafe.htm",
+    "logo": "https://cool-tv.net/default/webp/965-film-cafe.webp",
+    "categories": [
+      "Generale",
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Happy",
+    "url": "https://cool-tv.net/ch/euforia.htm",
+    "logo": "https://cool-tv.net/default/webp/64530-happy-channel.webp",
+    "categories": [
+      "Generale",
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Kanal D",
+    "url": "https://cool-tv.net/ch/cd-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/1213-kanal-d.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Kanal D2",
+    "url": "https://cool-tv.net/ch/cd-s2.htm",
+    "logo": "https://cool-tv.net/default/webp/1372-kanal-d-2-hd.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/canald2.html",
+      "https://canale-tv.net/channel/canald2.html"
+    ]
+  },
+  {
+    "name": "Nasul TV",
+    "url": "https://cool-tv.net/ch/nasul-tv.htm",
+    "logo": "https://cool-tv.net/default/webp/7545-nasul-tv.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": [
+      "https://galandriel1.thobias.cfd/000/1n24.html"
+    ]
+  },
+  {
+    "name": "National 24 Plus",
+    "url": "https://cool-tv.net/ch/n24.htm",
+    "logo": "https://cool-tv.net/default/webp/4392-national-24plus.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": []
+  },
+  {
+    "name": "National TV",
+    "url": "https://cool-tv.net/ch/nationaltv.htm",
+    "logo": "https://cool-tv.net/default/webp/1266-national-tv.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/nationaltv.html",
+      "https://canale-tv.net/channel/nationaltv.html"
+    ]
+  },
+  {
+    "name": "Prima TV",
+    "url": "https://cool-tv.net/ch/primatv.htm",
+    "logo": "https://cool-tv.net/default/webp/64531-prima-tv.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/primatv.html",
+      "https://canale-tv.net/channel/primatv.html"
+    ]
+  },
+  {
+    "name": "PRO Cinema",
+    "url": "https://cool-tv.net/ch/procinema.htm",
+    "logo": "https://cool-tv.net/default/webp/1123-pro-cinema-hd.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": []
+  },
+  {
+    "name": "PRO Tv",
+    "url": "https://cool-tv.net/ch/protv.htm",
+    "logo": "https://cool-tv.net/default/webp/1122-protv-hd.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": []
+  },
+  {
+    "name": "TVR 1",
+    "url": "https://cool-tv.net/ch/tvr1.htm",
+    "logo": "https://cool-tv.net/default/webp/1490-tvr-1-hd.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/tvr1.html",
+      "https://canale-tv.net/channel/tvr1.html"
+    ]
+  },
+  {
+    "name": "TVR 2",
+    "url": "https://cool-tv.net/ch/tvr2.htm",
+    "logo": "https://cool-tv.net/default/webp/1491-tvr-2-hd.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/tvr2.html",
+      "https://canale-tv.net/channel/tvr2.html"
+    ]
+  },
+  {
+    "name": "TVR 3",
+    "url": "https://cool-tv.net/ch/tvr3-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/1492-tvr-3.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/tvr3.html",
+      "https://canale-tv.net/channel/tvr3.html"
+    ]
+  },
+  {
+    "name": "TVR International",
+    "url": "https://cool-tv.net/ch/tvr-inter-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/74521-tvr-i.webp",
+    "categories": [
+      "Generale"
+    ],
+    "playback": []
+  },
+  {
+    "name": "AMC",
+    "url": "https://cool-tv.net/ch/amc-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/9640-amc.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "AXN Black",
+    "url": "https://cool-tv.net/ch/axn-black-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/1461-axn-black.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "AXN HD",
+    "url": "https://cool-tv.net/ch/axn.htm",
+    "logo": "https://cool-tv.net/default/webp/4205-axn.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "AXN Spin",
+    "url": "https://cool-tv.net/ch/axn-spin.htm",
+    "logo": "https://cool-tv.net/default/webp/1463-axn-spin.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/axnspin.html",
+      "https://canale-tv.net/channel/axnspin.html"
+    ]
+  },
+  {
+    "name": "AXN White",
+    "url": "https://cool-tv.net/ch/axn-white-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/022-AXN_White.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "BBC First",
+    "url": "https://cool-tv.net/ch/bbc-first-live.htm",
+    "logo": "https://cool-tv.net/default/webp/1549-bbc-first-hd.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Best Movies",
+    "url": "https://cool-tv.net/ch/movie-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/best-movies.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/fnow.html",
+      "https://canale-tv.net/channel/fnow.html"
+    ]
+  },
+  {
+    "name": "Bollywood TV",
+    "url": "https://cool-tv.net/ch/bollywood-tv.htm",
+    "logo": "https://cool-tv.net/default/webp/1127-bollywood-tv.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/bolywoodtv.html",
+      "https://canale-tv.net/channel/bolywoodtv.html"
+    ]
+  },
+  {
+    "name": "Cin3Max",
+    "url": "https://cool-tv.net/ch/cmax1-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/cmax1.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/cmax.html",
+      "https://canale-tv.net/channel/cmax.html"
+    ]
+  },
+  {
+    "name": "Cin3Max 2",
+    "url": "https://cool-tv.net/ch/cmax2-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/cmax2.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Comedy Central",
+    "url": "https://cool-tv.net/ch/comedy-central.htm",
+    "logo": "https://cool-tv.net/default/webp/1423-comedy-central.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Diva",
+    "url": "https://cool-tv.net/ch/diva.htm",
+    "logo": "https://cool-tv.net/default/webp/975-diva.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/diva.html",
+      "https://canale-tv.net/channel/diva.html"
+    ]
+  },
+  {
+    "name": "Epic Drama",
+    "url": "https://cool-tv.net/ch/epic-drama-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/1467-epic-drama-hd.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/epdrama.html",
+      "https://canale-tv.net/channel/epdrama.html"
+    ]
+  },
+  {
+    "name": "HR0",
+    "url": "https://cool-tv.net/ch/hro1-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/hro1.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "HR0 2",
+    "url": "https://cool-tv.net/ch/hro2-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/hro2.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "HR0 3",
+    "url": "https://cool-tv.net/ch/hro3-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/hro3.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "IBC COMEDY FREE",
+    "url": "https://cool-tv.net/ch/ibc-comedy-free.htm",
+    "logo": "https://cool-tv.net/default/webp/7453-ibc-comedy.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Rakuten TV",
+    "url": "https://cool-tv.net/ch/rakuten-tv.htm",
+    "logo": "https://cool-tv.net/default/webp/Rakuten-TV-01.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Show 1",
+    "url": "https://cool-tv.net/ch/shut1-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/show1.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Show 2",
+    "url": "https://cool-tv.net/ch/shut2-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/show2.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Tv 1ooo",
+    "url": "https://cool-tv.net/ch/tv100.htm",
+    "logo": "https://cool-tv.net/default/webp/1462-tv1000.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Worner",
+    "url": "https://cool-tv.net/ch/tnt-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/tnt-tv.webp",
+    "categories": [
+      "Filme"
+    ],
+    "playback": []
+  },
+  {
+    "name": "A 3 CNN",
+    "url": "https://cool-tv.net/ch/an3.htm",
+    "logo": "https://cool-tv.net/default/webp/7432-a3-cnn.webp",
+    "categories": [
+      "Știri"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Aleph News",
+    "url": "https://cool-tv.net/ch/aleph-news-tv-live.htm",
+    "logo": "https://cool-tv.net/default/webp/aleph-tv.webp",
+    "categories": [
+      "Știri"
+    ],
+    "playback": []
+  },
+  {
+    "name": "B1",
+    "url": "https://cool-tv.net/ch/b1.htm",
+    "logo": "https://cool-tv.net/default/webp/6758-b1.webp",
+    "categories": [
+      "Știri"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/b1tv.html",
+      "https://canale-tv.net/channel/b1tv.html"
+    ]
+  },
+  {
+    "name": "BBC News",
+    "url": "https://cool-tv.net/ch/bbc-news.htm",
+    "logo": "https://cool-tv.net/default/webp/023-bbc_news.webp",
+    "categories": [
+      "Știri"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/bbcnews.html",
+      "https://canale-tv.net/channel/bbcnews.html"
+    ]
+  },
+  {
+    "name": "CBS Reality",
+    "url": "https://cool-tv.net/ch/cbs-reality-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/342-CBS-Reality.webp",
+    "categories": [
+      "Știri",
+      "Tematice"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/cbsreality.html",
+      "https://canale-tv.net/channel/cbsreality.html"
+    ]
+  },
+  {
+    "name": "CNN",
+    "url": "https://cool-tv.net/ch/cnn-live-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/1275-cnn-hd.webp",
+    "categories": [
+      "Știri"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Euronews România",
+    "url": "https://cool-tv.net/ch/euro-news-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/8443-euronews.webp",
+    "categories": [
+      "Știri"
+    ],
+    "playback": []
+  },
+  {
+    "name": "JobTV",
+    "url": "https://cool-tv.net/ch/jobtv.htm",
+    "logo": "https://cool-tv.net/default/webp/7453-job-tv.webp",
+    "categories": [
+      "Știri"
+    ],
+    "playback": []
+  },
+  {
+    "name": "News 24",
+    "url": "https://cool-tv.net/ch/news-24.htm",
+    "logo": "https://cool-tv.net/default/webp/4382-news-24.webp",
+    "categories": [
+      "Știri"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Prima News",
+    "url": "https://cool-tv.net/ch/prima-news-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/6453-prima-news.webp",
+    "categories": [
+      "Știri"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Realitatea Plus",
+    "url": "https://cool-tv.net/ch/realitatea.htm",
+    "logo": "https://cool-tv.net/default/webp/6453-realitatea-plus.webp",
+    "categories": [
+      "Știri"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Romania tv",
+    "url": "https://cool-tv.net/ch/romaniatv-live.htm",
+    "logo": "https://cool-tv.net/default/webp/1390-romania-tv.webp",
+    "categories": [
+      "Știri"
+    ],
+    "playback": []
+  },
+  {
+    "name": "ESport 1",
+    "url": "https://cool-tv.net/ch/er1-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/011-eurosp.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/eurosp1.html",
+      "https://canale-tv.net/channel/eurosp1.html"
+    ]
+  },
+  {
+    "name": "ESport 2",
+    "url": "https://cool-tv.net/ch/er2-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/022-eurosp.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/eurosp2.html",
+      "https://canale-tv.net/channel/eurosp2.html"
+    ]
+  },
+  {
+    "name": "PPV 1",
+    "url": "https://cool-tv.net/ch/prima-ppv-1.htm",
+    "logo": "https://cool-tv.net/default/webp/6454-ppv-1.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/ppv1.html",
+      "https://canale-tv.net/channel/ppv1.html"
+    ]
+  },
+  {
+    "name": "PPV 2",
+    "url": "https://cool-tv.net/ch/prima-ppv-2.htm",
+    "logo": "https://cool-tv.net/default/webp/634523-ppv-2.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/ppv2.html",
+      "https://canale-tv.net/channel/ppv2.html"
+    ]
+  },
+  {
+    "name": "Prima Sport 1",
+    "url": "https://cool-tv.net/ch/prs-1.htm",
+    "logo": "https://cool-tv.net/default/webp/94563-prima-sport-1.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Prima Sport 2",
+    "url": "https://cool-tv.net/ch/prs-2.htm",
+    "logo": "https://cool-tv.net/default/webp/874652-prima-sport-2.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Prima Sport 3",
+    "url": "https://cool-tv.net/ch/prs-3.htm",
+    "logo": "https://cool-tv.net/default/webp/635743-prima-sport-3.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Prima Sport 4",
+    "url": "https://cool-tv.net/ch/prs-4.htm",
+    "logo": "https://cool-tv.net/default/webp/325647-prima-sport-4.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Prima Sport 5",
+    "url": "https://cool-tv.net/ch/prs-5.htm",
+    "logo": "https://cool-tv.net/default/webp/877633-prima-sport-5.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Pro Arena",
+    "url": "https://cool-tv.net/ch/sportro.htm",
+    "logo": "https://cool-tv.net/default/webp/022-pro-arena.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Sport Extra",
+    "url": "https://cool-tv.net/ch/sport-extra.htm",
+    "logo": "https://cool-tv.net/default/webp/1422-sport-extra-hd.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/sportextra.html",
+      "https://canale-tv.net/channel/sportextra.html"
+    ]
+  },
+  {
+    "name": "Super Sport 1",
+    "url": "https://cool-tv.net/ch/sport1-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/super-sport-1.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Super Sport 2",
+    "url": "https://cool-tv.net/ch/sport2-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/super-sport-2.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Super Sport 3",
+    "url": "https://cool-tv.net/ch/sport3-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/super-sport-3.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Super Sport 4",
+    "url": "https://cool-tv.net/ch/sport4-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/super-sport-4.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": []
+  },
+  {
+    "name": "TVR Sport",
+    "url": "https://cool-tv.net/ch/tvr-sport.htm",
+    "logo": "https://cool-tv.net/default/webp/tvrsport.webp",
+    "categories": [
+      "Sport"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Brat TV Live",
+    "url": "https://cool-tv.net/ch/brat-tv-live.htm",
+    "logo": "https://cool-tv.net/default/webp/brat-tv.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Cartoon Network",
+    "url": "https://cool-tv.net/ch/cartoon.htm",
+    "logo": "https://cool-tv.net/default/webp/2312-Cartoon-Network.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/cartoonnet.html",
+      "https://canale-tv.net/channel/cartoonnet.html"
+    ]
+  },
+  {
+    "name": "Cartoonito",
+    "url": "https://cool-tv.net/ch/cartoonito-live.htm",
+    "logo": "https://cool-tv.net/default/webp/1258-cartoonito.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Disney Channel",
+    "url": "https://cool-tv.net/ch/disney-channel-live.htm",
+    "logo": "https://cool-tv.net/default/webp/943-disney-channel.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Disney Junior",
+    "url": "https://cool-tv.net/ch/disney-junior-live.htm",
+    "logo": "https://cool-tv.net/default/webp/944-disney-jr.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Duck tv",
+    "url": "https://cool-tv.net/ch/ducktv-live.htm",
+    "logo": "https://cool-tv.net/default/webp/1350-duck-tv.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Gulli Live",
+    "url": "https://cool-tv.net/ch/gulli-live.htm",
+    "logo": "https://cool-tv.net/default/webp/645-gulli.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Jimjam",
+    "url": "https://cool-tv.net/ch/jimjam-live.htm",
+    "logo": "https://cool-tv.net/default/webp/963-jim-jam.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Minimax",
+    "url": "https://cool-tv.net/ch/minimaxro.htm",
+    "logo": "https://cool-tv.net/default/webp/734-minimax.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/minimax.html",
+      "https://canale-tv.net/channel/minimax.html"
+    ]
+  },
+  {
+    "name": "Mondo Tv Kids",
+    "url": "https://cool-tv.net/ch/mondo-tv-kids.htm",
+    "logo": "https://cool-tv.net/default/webp/02-Mondo-TV-Kids.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Nick Jr",
+    "url": "https://cool-tv.net/ch/nick-jr-live.htm",
+    "logo": "https://cool-tv.net/default/webp/1444-nick-junior.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Nickelodeon",
+    "url": "https://cool-tv.net/ch/nickelodeon.htm",
+    "logo": "https://cool-tv.net/default/webp/1443-nickelodeon.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Nicktoons",
+    "url": "https://cool-tv.net/ch/nicktoons-live.htm",
+    "logo": "https://cool-tv.net/default/webp/1425-nicktoons.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "TeenNick",
+    "url": "https://cool-tv.net/ch/teennick-live.htm",
+    "logo": "https://cool-tv.net/default/webp/1424-teennick.webp",
+    "categories": [
+      "Copii"
+    ],
+    "playback": []
+  },
+  {
+    "name": "BBC Earth",
+    "url": "https://cool-tv.net/ch/bbc-earth-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/1540-bbc-earth-hd.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Credo TV",
+    "url": "https://cool-tv.net/ch/credo-tv.htm",
+    "logo": "https://cool-tv.net/default/webp/1471-credo-tv.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Crime & Investigation",
+    "url": "https://cool-tv.net/ch/crime-investigation-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/345-Crime-Investigation.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Disco Channel",
+    "url": "https://cool-tv.net/ch/discovery-channel-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/1215-discovery-channel-hd.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Fishing & Hunting",
+    "url": "https://cool-tv.net/ch/fishing-hunting-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/564-fishing.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Fishing & Hunting",
+    "url": "https://cool-tv.net/ch/alfa-omega-tv.htm",
+    "logo": "https://cool-tv.net/default/webp/6352-alfa-si-omega.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "HGTV",
+    "url": "https://cool-tv.net/ch/hgtv-hd-live.htm",
+    "logo": "https://cool-tv.net/default/webp/4342-hgtv.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/hgtv.html",
+      "https://canale-tv.net/channel/hgtv.html"
+    ]
+  },
+  {
+    "name": "History Channel",
+    "url": "https://cool-tv.net/ch/history-live.htm",
+    "logo": "https://cool-tv.net/default/webp/1133-history-romania-hd.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "ID Investigation Discovery",
+    "url": "https://cool-tv.net/ch/id-investigation.htm",
+    "logo": "https://cool-tv.net/default/webp/1254-id-xtra-hd.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Nat Geo People",
+    "url": "https://cool-tv.net/ch/discovery-science.htm",
+    "logo": "https://cool-tv.net/default/webp/033-Nat_Geo_People.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Nat Geo WILD",
+    "url": "https://cool-tv.net/ch/nat-geo-wild-live.htm",
+    "logo": "https://cool-tv.net/default/webp/9565-nat-geo-wild.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/natgeowild.html",
+      "https://canale-tv.net/channel/natgeowild.html"
+    ]
+  },
+  {
+    "name": "National Geographic",
+    "url": "https://cool-tv.net/ch/natgeo.htm",
+    "logo": "https://cool-tv.net/default/webp/023-National_Geographic.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Speranta TV",
+    "url": "https://cool-tv.net/ch/speranta-tv.htm",
+    "logo": "https://cool-tv.net/default/webp/1472-speranta-tv.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "TLC",
+    "url": "https://cool-tv.net/ch/tlc-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/1253-tlc-hd.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Travel Channel",
+    "url": "https://cool-tv.net/ch/travel-ch-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/1251-travel-channel-hd.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Travel Mix",
+    "url": "https://cool-tv.net/ch/travel-mix-live.htm",
+    "logo": "https://cool-tv.net/default/webp/6543-travel-mix.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "TV Paprika",
+    "url": "https://cool-tv.net/ch/paprika-s1.htm",
+    "logo": "https://cool-tv.net/default/webp/967-paprika.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/paprika.html",
+      "https://canale-tv.net/channel/paprika.html"
+    ]
+  },
+  {
+    "name": "Viasat Explore",
+    "url": "https://cool-tv.net/ch/via-explorer.htm",
+    "logo": "https://cool-tv.net/default/webp/1135-viasat-explore.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Viasat History",
+    "url": "https://cool-tv.net/ch/via-his.htm",
+    "logo": "https://cool-tv.net/default/webp/1134-viasat-history.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/viahist.html",
+      "https://canale-tv.net/channel/viahist.html"
+    ]
+  },
+  {
+    "name": "Viasat Nature",
+    "url": "https://cool-tv.net/ch/via-nature.htm",
+    "logo": "https://cool-tv.net/default/webp/1445-viasat-nature.webp",
+    "categories": [
+      "Tematice"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Atomic TV",
+    "url": "https://cool-tv.net/ch/atomic-tv.htm",
+    "logo": "https://cool-tv.net/default/webp/4367-atomic-tv.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Balcan Music TV",
+    "url": "https://cool-tv.net/ch/balcan-music-tv.htm",
+    "logo": "https://cool-tv.net/default/webp/5362-balcan-tv.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Etno TV",
+    "url": "https://cool-tv.net/ch/etnotv.htm",
+    "logo": "https://cool-tv.net/default/webp/1382-etno-tv-hd.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/etno.html",
+      "https://canale-tv.net/channel/etno.html"
+    ]
+  },
+  {
+    "name": "Favorit TV",
+    "url": "https://cool-tv.net/ch/favorit.htm",
+    "logo": "https://cool-tv.net/default/webp/1274-favorit-tv.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/favorit.html",
+      "https://canale-tv.net/channel/favorit.html"
+    ]
+  },
+  {
+    "name": "Hit Music Channel",
+    "url": "https://cool-tv.net/ch/hit-music.htm",
+    "logo": "https://cool-tv.net/default/webp/003-Hit-Music-Channel.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Kiss TV",
+    "url": "https://cool-tv.net/ch/kiss-tv.htm",
+    "logo": "https://cool-tv.net/default/webp/1271-kiss-tv.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": []
+  },
+  {
+    "name": "MTV 00s",
+    "url": "https://cool-tv.net/ch/mtv-00s-hd-live.htm",
+    "logo": "https://cool-tv.net/default/webp/74641-mtv-00s.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Music Channel",
+    "url": "https://cool-tv.net/ch/music-channel.htm",
+    "logo": "https://cool-tv.net/default/webp/5342-music-channel.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/musicch.html",
+      "https://canale-tv.net/channel/musicch.html"
+    ]
+  },
+  {
+    "name": "Party Mix",
+    "url": "https://cool-tv.net/ch/party-mix-live.htm",
+    "logo": "https://cool-tv.net/default/webp/745763-party-mix.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Taraf TV",
+    "url": "https://cool-tv.net/ch/taraf.htm",
+    "logo": "https://cool-tv.net/default/webp/1385-taraf-tv-hd.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Traditional TV",
+    "url": "https://cool-tv.net/ch/traditional-tv-live.htm",
+    "logo": "https://cool-tv.net/default/webp/645321-traditional-tv.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": []
+  },
+  {
+    "name": "U TV",
+    "url": "https://cool-tv.net/ch/utv.htm",
+    "logo": "https://cool-tv.net/default/webp/874-utv.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": []
+  },
+  {
+    "name": "Zu TV",
+    "url": "https://cool-tv.net/ch/zu-tv.htm",
+    "logo": "https://cool-tv.net/default/webp/6584-zu-tv.webp",
+    "categories": [
+      "Muzică"
+    ],
+    "playback": [
+      "https://canale-tv.net/channel-v2/zutv.html",
+      "https://canale-tv.net/channel/zutv.html"
+    ]
+  }
+]
