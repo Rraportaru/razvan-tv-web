@@ -46,7 +46,7 @@
     #player-actions { width: 100%; height: 40px; display: flex; align-items: center; gap: 8px; }
     #player-actions button { width: 104px; min-height: 36px; height: 36px; padding: 0 8px; border-radius: 14px; }
     #player-left { min-width: 0; display: flex; align-items: center; gap: 6px; }
-    #back { width: 40px!important; flex: 0 0 40px; padding: 0!important; font-size: 22px; }
+    #back { width: 40px!important; min-height: 36px!important; flex: 0 0 40px; padding: 0!important; font-size: 22px; line-height: 1; overflow: hidden; }
     #player-identity-group { min-width: 0; display: flex; align-items: center; gap: 6px; }
     #playerbar .app-icon { width: 24px; height: 24px; }
     #player-brand { min-width: 0; max-width: 105px; display: flex; flex-direction: column; }
@@ -183,7 +183,6 @@
     document.querySelector('#open-page').addEventListener('click', () => {
       if (selected) window.open(selected.url, '_blank', 'noopener');
     });
-    document.querySelector('#back').innerHTML = `${icon('Toate')}<span>CANALE</span>`;
     document.querySelector('#favorite-filter').innerHTML = actionLabel('Favorite', 'FAVORITE');
     document.querySelector('#player-favorite').innerHTML = actionLabel('Favorite', 'FAVORIT');
     document.addEventListener('keydown', event => {
