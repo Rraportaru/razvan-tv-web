@@ -1,8 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
-  <rect width="128" height="128" rx="28" fill="#10131b"/>
-  <path d="m43 16 17 20-8 6-16-20zm42 0L68 36l8 6 16-20z" fill="#64d9ff"/>
-  <rect x="14" y="35" width="100" height="72" rx="13" fill="#25344a"/>
-  <rect x="25" y="46" width="78" height="49" rx="5" fill="#111821"/>
-  <path d="M43 58v25h8V66h10v-8zm27 0v8h10v17h8V58z" fill="#64d9ff"/>
-  <rect x="49" y="112" width="30" height="5" rx="2.5" fill="#64d9ff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#07143c"/>
+  <image href="app/src/main/res/drawable-nodpi/tv_head.png"
+         x="40" y="52" width="432" height="346" preserveAspectRatio="xMidYMid meet"/>
 </svg>

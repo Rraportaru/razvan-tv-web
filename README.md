@@ -1,7 +1,7 @@
 # Razvan TV web app
 
-Static, touch-friendly browser version of Razvan TV with the bundled 120-channel catalog.
+Static, touch- and remote-friendly browser version of Razvan TV, with the 120-channel catalog, category filters, Favorites, and full-screen channel playback.
 
-Open the deployed site in a modern browser, including Echo Show Silk. Tap a station to open its official channel page inside the player frame. Playback, ads, and autoplay are controlled by the third-party channel providers; this site cannot guarantee ad-free playback or that every provider supports Echo Show.
+Open the published site in a modern browser, including Echo Show Silk. Select a channel to open its provider page full screen behind the supplied animated loading screen. Playback, advertisements, autoplay, and audio are controlled by third-party channel providers; this site cannot guarantee ad-free playback or that every provider supports every browser.
 
-The channel logos load from Cool-TV's servers. This GitHub Pages project hosts only the app page, catalog, and visual assets.
+The site includes the supplied neon TV artwork and loading GIF. Channel logos and streams are provided by Cool-TV and its partner providers.
