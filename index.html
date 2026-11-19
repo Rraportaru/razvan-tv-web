@@ -145,10 +145,10 @@
     .guide-card .guide-next span { color: #6baeff; }
     #frame {
       position: absolute;
-      top: -145px;
+      inset: 0;
       left: 0;
       width: 100%;
-      height: calc(100% + 200px);
+      height: 100%;
       border: 0;
       visibility: hidden;
     }
@@ -300,11 +300,6 @@
     .favorites-empty strong { color: #fff; font-size: 12px; letter-spacing: .12em; }
     .favorites-empty span:last-child { color: #a9bfd3; font-size: 11px; }
     footer { flex: 0 0 18px; color: #9aadc1; font-size: 10px; }
-    @media (min-width: 1200px) {
-      #frame { top: -20vh; left: -9vw; height: calc(100% + 240px); transform: scale(1.2); transform-origin: top center; }
-      #player-area::before { content: ""; position: absolute; z-index: 2; inset: 0 auto 0 0; width: 9vw; background: #080a0e; pointer-events: none; }
-      #player-area::after { inset: min(880px, 50vw) 0 0; }
-    }
     @media (max-height: 700px) {
       .app { padding-top: 8px; gap: 5px; }
       header { height: 40px; flex-basis: 40px; }
@@ -543,7 +538,7 @@
           showPlaybackGuide(channel);
         }, 9000);
       }, { once: true });
-      frame.src = channel.playback?.[0] || channel.url;
+      frame.src = channel.url;
       renderChannels();
       showGuideCard(channel);
       requestAnimationFrame(() => {
