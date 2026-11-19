@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Razvan TV 1.3.4 — Live</title>
+  <title>Razvan TV 1.4.0 — Live</title>
   <style>
     :root {
       color-scheme: dark;
@@ -17,32 +17,24 @@
       height: 100vh;
       overflow: hidden;
       background:
-        radial-gradient(ellipse at 50% -25%, #0879ff88, transparent 58%),
-        radial-gradient(ellipse at 88% 55%, #ce21b329, transparent 42%),
-        linear-gradient(180deg, #030a1fe8, #071b49d9 55%, #060c25f2),
-        url("./background-smoke.svg") center / cover fixed no-repeat;
+        url("./background-smoke.svg") center / cover fixed no-repeat,
+        radial-gradient(ellipse 105% 42% at 50% 4%, #087dff8a, transparent 100%),
+        radial-gradient(ellipse 115% 48% at 48% 46%, #0874f477 0%, #173c9c4a 48%, transparent 100%),
+        radial-gradient(ellipse 94% 40% at 70% 100%, #a42cff80, transparent 100%),
+        linear-gradient(180deg, #02091e, #061638 52%, #04081c);
     }
     body::before {
       content: "";
       position: fixed;
       z-index: 0;
-      inset: -35%;
+      inset: -18%;
       pointer-events: none;
-      opacity: .3;
-      mix-blend-mode: screen;
-      filter: sepia(1) saturate(3.6) hue-rotate(175deg);
-      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.82' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-      background-size: 72px 72px;
-      animation: static-jitter .16s steps(2) infinite;
-    }
-    @keyframes static-jitter {
-      0% { transform: translate(0, 0); }
-      25% { transform: translate(2%, -1%); }
-      50% { transform: translate(-1%, 2%); }
-      75% { transform: translate(1%, 1%); }
-    }
-    @media (prefers-reduced-motion: reduce) {
-      body::before { animation: none; opacity: .06; }
+      background:
+        radial-gradient(ellipse 66% 32% at 16% 28%, #00baffac, transparent 76%),
+        radial-gradient(ellipse 75% 36% at 80% 74%, #a225ffad, transparent 76%),
+        radial-gradient(ellipse 92% 30% at 52% 50%, #147bff8c, transparent 78%);
+      filter: blur(62px);
+      opacity: .9;
     }
     button { font: inherit; }
     button {
@@ -64,7 +56,6 @@
     }
     .app {
       height: 100vh;
-      width: 100%;
       max-width: 1800px;
       margin: auto;
       padding: 14px clamp(18px, 3vw, 48px) 8px;
@@ -73,14 +64,12 @@
       display: flex;
       flex-direction: column;
       gap: 8px;
-      overflow-x: clip;
     }
     header { display: flex; align-items: center; gap: 11px; height: 48px; flex: 0 0 48px; }
     header img { width: 54px; height: 54px; object-fit: contain; filter: drop-shadow(0 0 16px #12adffbb); }
     .brand-copy { display: flex; flex-direction: column; }
     .eyebrow { color: #8ab8d9; font-size: 9px; font-weight: 800; letter-spacing: .2em; }
     h1 { margin: 0; font-size: 22px; letter-spacing: .13em; }
-    .spacer { flex: 1; }
     nav {
       display: flex;
       flex: 0 0 46px;
@@ -94,31 +83,66 @@
       flex: 1 1 auto;
       min-height: 120px;
       overflow: hidden;
-      background: #080a0e;
-      border: 1px solid #86cfff22;
+      background: transparent;
+      border: 0;
       border-radius: 12px;
-      box-shadow: 0 14px 35px #0007;
+      box-shadow: none;
     }
     #placeholder {
       position: absolute;
       inset: 0;
       z-index: 1;
-      display: grid;
-      place-content: end center;
-      gap: 8px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: flex-end;
       padding: 14px 14px clamp(28px, 6vh, 52px);
       color: #c3d4e5;
-      text-align: center;
-      background:
-        linear-gradient(180deg, #03102a35, #06133b66 65%, #060e2a99),
-        url("./app/src/main/res/drawable-nodpi/tv_hero.png") center / auto 100% no-repeat,
-        linear-gradient(145deg, #0a2b67, #07102f 65%, #271142);
+      text-align: left;
+      background: url("./app/src/main/res/drawable-nodpi/tv_hero_faded.png") center / contain no-repeat;
       border-radius: 12px;
       overflow: hidden;
     }
-    #placeholder strong { color: #e7faff; font-size: clamp(17px, 2vw, 24px); letter-spacing: .12em; text-shadow: 0 0 16px #087eff; }
-    #placeholder span { color: #c6e7ff; font-size: 13px; }
-    #placeholder .hold-hint { color: #42d9ff; font-size: 10px; font-weight: 850; letter-spacing: .12em; }
+    .placeholder-help {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      width: min(680px, 100%);
+      padding: 12px 16px;
+      border-radius: 14px;
+      color: #c3d4e5;
+      background: linear-gradient(145deg, #06162be8, #101632df);
+      backdrop-filter: blur(18px);
+      box-shadow: 0 12px 36px #0007;
+    }
+    .placeholder-help strong { color: #78e2ff; font-size: 13px; text-shadow: 0 0 12px #087eff88; }
+    .placeholder-help span { color: #d3e6fb; font-size: 12px; line-height: 1.35; }
+    .placeholder-help .guide-wait { color: #79baff; }
+    .guide-card {
+      display: none;
+      position: absolute;
+      z-index: 3;
+      left: 50%;
+      bottom: clamp(18px, 4vh, 34px);
+      width: min(720px, calc(100% - 28px));
+      transform: translateX(-50%);
+      flex-direction: column;
+      gap: 3px;
+      padding: 10px 18px 9px;
+      border: 1px solid #78cfff3d;
+      border-radius: 16px;
+      background: linear-gradient(145deg, #073052d9, #101e4ad8 58%, #1d1745d6);
+      backdrop-filter: blur(18px) saturate(1.25);
+      box-shadow: 0 14px 38px #02071688, inset 0 1px #a6dfff14;
+    }
+    .guide-card.visible { display: flex; }
+    .guide-card .guide-channel { color: #78dcff; font-size: 11px; font-weight: 900; letter-spacing: .06em; }
+    .guide-card .guide-now { color: #effaff; font-size: 17px; font-weight: 900; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .guide-card .guide-meta { color: #c0ddf2; font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .guide-card .guide-progress { height: 4px; width: 100%; margin: 2px 0; overflow: hidden; border-radius: 99px; background: #1e3a58; }
+    .guide-card .guide-progress i { display: block; height: 100%; width: 0; border-radius: inherit; background: #46ceff; box-shadow: 0 0 12px #46ceff88; }
+    .guide-card .guide-next { color: #91dfff; font-size: 13px; font-weight: 800; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .guide-card .guide-next span { color: #6baeff; }
     #frame {
       position: absolute;
       top: -145px;
@@ -126,8 +150,10 @@
       width: 100%;
       height: calc(100% + 200px);
       border: 0;
-      background: #000;
+      visibility: hidden;
     }
+    #player-area.loading #frame,
+    #player-area.playing #frame { visibility: visible; }
     #loading-screen {
       display: none;
       position: absolute;
@@ -166,19 +192,55 @@
       letter-spacing: .12em;
       text-shadow: 0 0 8px #149eff, 0 0 22px #0874ff;
     }
-    #loading-screen::before {
-      content: "";
+    .loading-channel {
       position: absolute;
-      inset: -35%;
-      opacity: .3;
-      mix-blend-mode: screen;
-      filter: sepia(1) saturate(3.6) hue-rotate(175deg);
-      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.82' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-      background-size: 72px 72px;
-      animation: static-jitter .16s steps(2) infinite;
+      left: 50%;
+      top: calc(50% - 25vmin);
+      z-index: 2;
+      max-width: min(900px, 80vw);
+      transform: translateX(-50%);
+      color: #35caff;
+      font-size: clamp(20px, 2.2vw, 30px);
+      font-weight: 900;
+      letter-spacing: .045em;
+      text-shadow: 0 0 14px #087effaa;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
     #player-area.loading #loading-screen { display: grid; }
     #player-area.playing #placeholder { display: none; }
+    .playback-guide-card {
+      display: none;
+      position: absolute;
+      z-index: 7;
+      left: 50%;
+      bottom: 28px;
+      width: min(840px, calc(100% - 44px));
+      transform: translateX(-50%);
+      align-items: center;
+      gap: 12px;
+      padding: 9px 14px;
+      border: 1px solid #78cfff35;
+      border-radius: 14px;
+      background: linear-gradient(145deg, #073052d9, #101e4ad8 58%, #1d1745d6);
+      backdrop-filter: blur(18px) saturate(1.25);
+      box-shadow: 0 12px 34px #02071699, inset 0 1px #a6dfff14;
+    }
+    .playback-guide-card.visible { display: flex; }
+    .playback-guide-card img {
+      width: 64px;
+      height: 52px;
+      flex: 0 0 64px;
+      object-fit: contain;
+    }
+    .playback-guide-text { min-width: 0; flex: 1; display: flex; flex-direction: column; gap: 2px; }
+    .playback-guide-channel { color: #78dcff; font-size: 11px; font-weight: 900; }
+    .playback-guide-now { color: #effaff; font-size: 16px; font-weight: 900; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .playback-guide-meta { color: #c0ddf2; font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .playback-guide-progress { height: 4px; width: 100%; overflow: hidden; border-radius: 99px; background: #1e3a58; }
+    .playback-guide-progress i { display: block; height: 100%; width: 0; border-radius: inherit; background: #46ceff; }
+    .playback-guide-next { color: #91dfff; font-size: 13px; font-weight: 800; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
     body.fullscreen-mode .app { max-width: none; padding: 0; gap: 0; }
     body.fullscreen-mode .app > :not(#player-area) { display: none; }
     body.fullscreen-mode #player-area {
@@ -188,7 +250,7 @@
       border: 0;
       border-radius: 0;
     }
-    #player-area.playing::after {
+    #player-area::after {
       content: "";
       position: absolute;
       z-index: 1;
@@ -196,23 +258,22 @@
       background: #080a0e;
       pointer-events: none;
     }
-    #player-area:not(.playing)::before { display: none; }
+    #player-area:not(.playing)::before,
+    #player-area:not(.playing)::after { display: none; }
     .station-heading { display: flex; align-items: center; gap: 12px; flex: 0 0 18px; }
     .station-heading strong { color: #a9c5db; font-size: 10px; letter-spacing: .16em; }
     .station-heading #count { color: #b7eeff; font-size: 10px; font-weight: 800; }
     #carousel-help { color: #9fb5ca; font-size: 10px; }
     #carousel {
       display: flex;
-      width: 100%;
-      min-width: 0;
-      flex: 0 0 94px;
+      flex: 0 0 108px;
       gap: 6px;
       overflow-x: auto;
       overflow-y: hidden;
       scroll-behavior: smooth;
       scrollbar-width: thin;
       scrollbar-color: #347ba0 #091426;
-      padding: 2px 4px 16px;
+      padding: 8px 4px 18px;
     }
     .station {
       position: relative;
@@ -242,11 +303,7 @@
     @media (min-width: 1200px) {
       #frame { top: -20vh; left: -9vw; height: calc(100% + 240px); transform: scale(1.2); transform-origin: top center; }
       #player-area::before { content: ""; position: absolute; z-index: 2; inset: 0 auto 0 0; width: 9vw; background: #080a0e; pointer-events: none; }
-      #player-area.playing::after { inset: min(880px, 50vw) 0 0; }
-    }
-    @media (max-width: 700px) {
-      nav button { flex: 0 0 auto; }
-      #placeholder { background-size: auto, 100% auto, auto; background-position: center, center 34%, center; }
+      #player-area::after { inset: min(880px, 50vw) 0 0; }
     }
     @media (max-height: 700px) {
       .app { padding-top: 8px; gap: 5px; }
@@ -254,7 +311,7 @@
       header img { width: 34px; height: 34px; }
       h1 { font-size: 19px; }
       nav { flex-basis: 34px; }
-      #carousel { flex-basis: 90px; }
+      #carousel { flex-basis: 100px; }
       .station { min-height: 68px; }
       .station-logo { height: 42px; }
     }
@@ -265,20 +322,24 @@
     <header>
       <img src="./app/src/main/res/drawable-nodpi/tv_head.png" alt="">
       <div class="brand-copy"><span class="eyebrow">YOUR SCREEN · YOUR CHANNELS</span><h1>RAZVAN TV</h1></div>
-      <span class="spacer"></span>
     </header>
     <nav id="categories" aria-label="Categorii TV"></nav>
     <section id="player-area" aria-label="Player TV">
       <div id="placeholder">
-        <strong>YOUR SCREEN. YOUR CHANNELS.</strong>
-        <span>Your favorite channels, ready for movie night.</span>
-        <span class="hold-hint">Ține apăsat un canal 3 secunde pentru a-l adăuga la Favorite</span>
+        <div class="placeholder-help">
+          <strong>← / → Alege canalul · ENTER Redă · ESC Revine la listă</strong>
+          <span>Ține ENTER apăsat 3 secunde pentru a adăuga canalul la Favorite.</span>
+          <span class="guide-wait">Ghidul se încarcă în fundal. Așteaptă câteva secunde; programul curent și următorul apar aici.</span>
+        </div>
+        <div id="guide-card" class="guide-card" aria-live="polite"></div>
       </div>
       <iframe id="frame" allow="autoplay; fullscreen; picture-in-picture" referrerpolicy="no-referrer" title="Player TV"></iframe>
       <div id="loading-screen" aria-hidden="true">
         <div class="loading-mark"><img src="./3voaK5KS17.gif" alt=""></div>
+        <strong id="loading-channel" class="loading-channel"></strong>
         <strong class="loading-brand">Razvan TV</strong>
       </div>
+      <div id="playback-guide" class="playback-guide-card" aria-live="polite"></div>
     </section>
     <div class="station-heading"><strong>TOATE POSTURILE</strong><span id="count"></span><span id="carousel-help">← → navighează · ENTER pornește postul</span></div>
     <section id="carousel" aria-label="Listă orizontală de canale TV"></section>
@@ -291,6 +352,10 @@
     const playerArea = document.querySelector('#player-area');
     const frame = document.querySelector('#frame');
     const count = document.querySelector('#count');
+    const guideCard = document.querySelector('#guide-card');
+    const placeholderHelp = document.querySelector('.placeholder-help');
+    const loadingChannel = document.querySelector('#loading-channel');
+    const playbackGuide = document.querySelector('#playback-guide');
     const esc = value => String(value).replace(/[&<>"']/g, char =>
       ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
     let channels = [];
@@ -299,9 +364,149 @@
     let selectedChannel = null;
     let playingChannel = null;
     let loadSequence = 0;
+    let guidePrograms = {};
     let favorites;
-    try { favorites = new Set(JSON.parse(localStorage.getItem('razvantv.v13.favorites') || '[]')); }
+    try { favorites = new Set(JSON.parse(localStorage.getItem('razvantv.v14.favorites') || '[]')); }
     catch (error) { console.warn('Could not read saved favorites', error); favorites = new Set(); }
+
+    function normalizeGuideName(value) {
+      const key = value.normalize('NFD')
+        .replace(/\p{M}/gu, '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]/g, '')
+        .replace(/(?:hd|fhd|4k)$/i, '');
+      if (['a1', 'a1hd', 'antena1hd'].includes(key)) return 'antena1';
+      if (key === 'acasa') return 'acasatv';
+      if (key === 'tv1000') return 'tv1000';
+      return key;
+    }
+
+    function guideNameForChannel(name) {
+      const key = normalizeGuideName(name);
+      const aliases = {
+        a1: 'antena1',
+        acasatv: 'acasatv',
+        astars: 'antenastars',
+        happy: 'happychannel',
+        cin3max: 'cinemax',
+        cin3max2: 'cinemax2',
+        hr0: 'hbo',
+        hr02: 'hbo2',
+        hr03: 'hbo3',
+        a3cnn: 'antena3cnn',
+        news24: 'digi24',
+        worner: 'warnertv',
+        ppv1: 'primasport1',
+        ppv2: 'primasport2',
+        esport1: 'eurosport1',
+        esport2: 'eurosport2',
+        b1: 'b1tv',
+        b1tv: 'b1tv',
+        crimeinvestigation: 'idinvestigationdiscovery'
+      };
+      return aliases[key] ? normalizeGuideName(aliases[key]) : key;
+    }
+
+    function cleanGuideTitle(title) {
+      const clean = String(title || '').replace(/\s+/g, ' ').trim();
+      const parts = clean.split(/\s+[–—-]\s+/, 2);
+      if (parts.length !== 2) return clean;
+      const comparisonKey = part => part.normalize('NFD')
+        .replace(/\p{M}/gu, '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]/g, '');
+      const first = comparisonKey(parts[0]);
+      return first && first === comparisonKey(parts[1]) ? parts[0].trim() : clean;
+    }
+
+    function guideProgress(entry) {
+      if (!entry?.start || !entry?.end) return 0;
+      const start = entry.start.match(/(\d{1,2}):(\d{2})/);
+      const end = entry.end.match(/(\d{1,2}):(\d{2})/);
+      if (!start || !end) return 0;
+      let startMinute = Number(start[1]) * 60 + Number(start[2]);
+      let endMinute = Number(end[1]) * 60 + Number(end[2]);
+      if (endMinute <= startMinute) endMinute += 24 * 60;
+      const now = new Date();
+      const bucharestMinute = (now.getHours() * 60 + now.getMinutes()
+        + (now.getTimezoneOffset() + 180)) % (24 * 60);
+      let current = bucharestMinute;
+      if (current < startMinute && endMinute > 24 * 60) current += 24 * 60;
+      const progress = Math.round((current - startMinute) * 100 / (endMinute - startMinute));
+      return Math.max(0, Math.min(100, progress));
+    }
+
+    function remainingTime(end) {
+      if (!end) return '';
+      const match = end.match(/(\d{1,2}):(\d{2})/);
+      if (!match) return '';
+      const endMinute = Number(match[1]) * 60 + Number(match[2]);
+      const now = new Date();
+      let current = now.getHours() * 60 + now.getMinutes()
+        + (now.getTimezoneOffset() + 180);
+      let minutes = endMinute - (current % (24 * 60));
+      if (minutes < 0) minutes += 24 * 60;
+      if (minutes > 480) return 'program posibil actualizat';
+      if (minutes === 0) return 'se termină acum';
+      return minutes >= 60
+        ? `${Math.floor(minutes / 60)} h ${minutes % 60} min`
+        : `${minutes} min rămase`;
+    }
+
+    function showGuideCard(channel) {
+      if (!channel) {
+        guideCard.classList.remove('visible');
+        placeholderHelp?.style.setProperty('display', 'flex');
+        return;
+      }
+      const entry = guidePrograms[guideNameForChannel(channel.name)];
+      if (!entry) {
+        guideCard.classList.remove('visible');
+        placeholderHelp?.style.setProperty('display', 'flex');
+        return;
+      }
+      placeholderHelp?.style.setProperty('display', 'none');
+      const progress = guideProgress(entry);
+      const remaining = (entry.start && entry.end
+        ? `${entry.start} – ${entry.end} · `
+        : '') + remainingTime(entry.end);
+      guideCard.innerHTML = `
+        <span class="guide-channel">${esc(channel.name)}</span>
+        <strong class="guide-now">${esc(cleanGuideTitle(entry.current))}</strong>
+        <span class="guide-meta">${esc(remaining)}${entry.end ? ` · ${progress}%` : ''}</span>
+        <span class="guide-progress"><i style="width:${progress}%"></i></span>
+        ${entry.next ? `<span class="guide-next"><span>URMEAZĂ · ${esc(entry.nextStart)}</span> · ${esc(cleanGuideTitle(entry.next))}</span>` : ''}
+      `;
+      guideCard.classList.add('visible');
+    }
+
+    function showPlaybackGuide(channel) {
+      if (!channel) {
+        playbackGuide.classList.remove('visible');
+        return;
+      }
+      const entry = guidePrograms[guideNameForChannel(channel.name)];
+      if (!entry) {
+        playbackGuide.classList.remove('visible');
+        return;
+      }
+      const progress = guideProgress(entry);
+      const remaining = (entry.start && entry.end
+        ? `${entry.start} – ${entry.end} · `
+        : '') + remainingTime(entry.end);
+      playbackGuide.innerHTML = `
+        <img src="${esc(channel.logo || './app/src/main/res/drawable-nodpi/tv_head.png')}" alt="">
+        <div class="playback-guide-text">
+          <span class="playback-guide-channel">${esc(channel.name)}</span>
+          <strong class="playback-guide-now">${esc(cleanGuideTitle(entry.current))}</strong>
+          <span class="playback-guide-meta">${esc(remaining)}${entry.end ? ` · ${progress}%` : ''}</span>
+          <span class="playback-guide-progress"><i style="width:${progress}%"></i></span>
+          ${entry.next ? `<span class="playback-guide-next">URMEAZĂ · ${esc(entry.nextStart)} · ${esc(cleanGuideTitle(entry.next))}</span>` : ''}
+        </div>
+      `;
+      playbackGuide.classList.add('visible');
+      window.setTimeout(() => playbackGuide.classList.remove('visible'), 10000);
+    }
 
     function renderCategories() {
       nav.innerHTML = categories.map(name =>
@@ -325,18 +530,22 @@
       selectedChannel = channel;
       if (playingChannel?.url === channel.url) return;
       playingChannel = channel;
+      loadingChannel.textContent = channel.name;
       const request = ++loadSequence;
       playerArea.classList.add('playing');
       playerArea.classList.add('loading');
       document.body.classList.add('fullscreen-mode');
+      playbackGuide.classList.remove('visible');
       frame.addEventListener('load', () => {
         window.setTimeout(() => {
           if (request !== loadSequence) return;
           playerArea.classList.remove('loading');
+          showPlaybackGuide(channel);
         }, 9000);
       }, { once: true });
-      frame.src = channel.url;
+      frame.src = channel.playback?.[0] || channel.url;
       renderChannels();
+      showGuideCard(channel);
       requestAnimationFrame(() => {
         const selected = carousel.querySelector('.station.selected');
         selected?.focus({preventScroll: true});
@@ -347,7 +556,7 @@
     function toggleFavorite(channel) {
       if (favorites.has(channel.url)) favorites.delete(channel.url);
       else favorites.add(channel.url);
-      try { localStorage.setItem('razvantv.v13.favorites', JSON.stringify([...favorites])); }
+      try { localStorage.setItem('razvantv.v14.favorites', JSON.stringify([...favorites])); }
       catch (error) { console.warn('Could not save favorites', error); }
       renderCategories();
       renderChannels();
@@ -356,7 +565,7 @@
     function addFavorite(channel) {
       if (favorites.has(channel.url)) return;
       favorites.add(channel.url);
-      try { localStorage.setItem('razvantv.v13.favorites', JSON.stringify([...favorites])); }
+      try { localStorage.setItem('razvantv.v14.favorites', JSON.stringify([...favorites])); }
       catch (error) { console.warn('Could not save favorites', error); }
       const card = [...carousel.querySelectorAll('.station')]
         .find(button => button.dataset.url === channel.url);
@@ -387,7 +596,10 @@
       }).join('') : `<div class="favorites-empty"><span class="empty-star">☆</span><strong>AICI APAR CANALELE TALE PREFERATE</strong><span>Alege Toate, apoi ține apăsat un canal 3 secunde pentru a-l adăuga la Favorite.</span></div>`;
       carousel.querySelectorAll('[data-url]').forEach(button => {
         const channel = visible.find(item => item.url === button.dataset.url);
-        button.addEventListener('focus', () => { selectedChannel = channel; });
+        button.addEventListener('focus', () => {
+          selectedChannel = channel;
+          showGuideCard(channel);
+        });
         button.addEventListener('click', event => {
           if (button.dataset.holdCompleted === 'true') {
             button.dataset.holdCompleted = 'false';
@@ -426,6 +638,11 @@
           focused?.focus({preventScroll: true});
           focused?.scrollIntoView({behavior: 'smooth', block: 'nearest', inline: 'center'});
         });
+      } else if (visible.length) {
+        selectedChannel = selectedChannel && visible.includes(selectedChannel)
+          ? selectedChannel
+          : visible[0];
+        showGuideCard(selectedChannel);
       }
     }
 
@@ -436,7 +653,10 @@
       playerArea.classList.remove('loading');
       document.body.classList.remove('fullscreen-mode');
       playingChannel = null;
+      loadingChannel.textContent = '';
+      playbackGuide.classList.remove('visible');
       renderChannels();
+      showGuideCard(selectedChannel);
     }
 
     let keyboardHoldTimer = 0;
@@ -486,6 +706,17 @@
         keyboardHoldCompleted = false;
       }
     });
+
+    fetch('./guide.json')
+      .then(response => {
+        if (!response.ok) throw new Error(`TV guide returned HTTP ${response.status}`);
+        return response.json();
+      })
+      .then(data => {
+        guidePrograms = data.programs || {};
+        if (selectedChannel) showGuideCard(selectedChannel);
+      })
+      .catch(error => console.warn('TV guide is unavailable:', error));
 
     fetch('./app/src/main/assets/channels.json')
       .then(response => {
