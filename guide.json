@@ -4,779 +4,779 @@
   "programs": {
     "a7tv": {
       "channel": "A7 TV",
-      "current": "Muzeul Bucuresti",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "De vorbă cu Doctorul",
-      "nextStart": "16:00"
+      "current": "Contraste in lumina",
+      "start": "03:00",
+      "end": "04:00",
+      "next": "Ai tot dreptul",
+      "nextStart": "04:00"
     },
     "acasatv": {
       "channel": "Acasă TV",
-      "current": "Ştirile Acasă Magazin",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Kavya",
-      "nextStart": "16:00"
+      "current": "Leyla",
+      "start": "02:30",
+      "end": "04:15",
+      "next": "Drumul catre Soare",
+      "nextStart": "04:15"
     },
     "agrotv": {
       "channel": "Agro TV",
-      "current": "Agricultura la Raport",
-      "start": "14:00",
-      "end": "16:00",
-      "next": "Teleshopping",
-      "nextStart": "16:00"
+      "current": "AgroMagazin",
+      "start": "03:00",
+      "end": "03:30",
+      "next": "Agroproiect de succes",
+      "nextStart": "03:30"
     },
     "alephnews": {
       "channel": "Aleph News",
-      "current": "Știu Pe Ce Lume Trăiesc",
-      "start": "14:55",
-      "end": "16:55",
-      "next": "Știrile",
-      "nextStart": "16:55"
+      "current": "Știrile",
+      "start": "02:55",
+      "end": "03:55",
+      "next": "Keep Cool And Trade On",
+      "nextStart": "03:55"
     },
     "alfaomegatv": {
       "channel": "Alfa Omega TV",
       "current": "Față în față",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Mapamond Creştin",
-      "nextStart": "16:00"
+      "start": "03:00",
+      "end": "04:00",
+      "next": "InTouch (cu Charles Stanley)",
+      "nextStart": "04:00"
     },
     "amc": {
       "channel": "AMC",
-      "current": "Noapte de foc",
-      "start": "15:35",
-      "end": "17:15",
-      "next": "Godzilla Minus One",
-      "nextStart": "17:15"
+      "current": "Sechestrați în larg",
+      "start": "00:55",
+      "end": "03:20",
+      "next": "Trecătoarea Diavolului",
+      "nextStart": "03:20"
     },
     "animalplanet": {
       "channel": "Animal Planet",
-      "current": "Căsuţe în copaci",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Pitbuli şi condamnaţi",
-      "nextStart": "16:00"
+      "current": "Acvarii la comandă",
+      "start": "02:30",
+      "end": "03:15",
+      "next": "Poliţia veterinară din Miami",
+      "nextStart": "03:15"
     },
     "antena1": {
       "channel": "Antena 1",
-      "current": "Mireasa – Regatul inimii",
-      "start": "14:00",
-      "end": "16:00",
-      "next": "Observator",
-      "nextStart": "16:00"
+      "current": "Temptation Island - Insula iubirii",
+      "start": "00:45",
+      "end": "03:45",
+      "next": "În puii mei",
+      "nextStart": "03:45"
     },
     "antena3cnn": {
       "channel": "Antena 3 CNN",
-      "current": "Decisiv",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Stiri cu Sabrina Preda si Sergiu Cora",
-      "nextStart": "16:00"
+      "current": "Sinteza zilei",
+      "start": "02:00",
+      "end": "04:00",
+      "next": "În gura presei",
+      "nextStart": "04:00"
     },
     "antenastars": {
       "channel": "Antena Stars",
-      "current": "Viaţa Fără Filtru",
-      "start": "13:30",
-      "end": "16:00",
-      "next": "Acces direct",
-      "nextStart": "16:00"
+      "current": "Spynews Tv Live",
+      "start": "02:45",
+      "end": "04:30",
+      "next": "Știrile Antena Stars",
+      "nextStart": "04:30"
     },
     "axn": {
       "channel": "AXN",
       "current": "CSI - Crime și investigații",
-      "start": "15:25",
-      "end": "16:25",
+      "start": "03:00",
+      "end": "03:45",
       "next": "CSI - Crime și investigații",
-      "nextStart": "16:25"
+      "nextStart": "03:45"
     },
     "axnblack": {
       "channel": "AXN Black",
-      "current": "Walker, polițist texan",
-      "start": "15:25",
-      "end": "16:25",
-      "next": "Walker, polițist texan",
-      "nextStart": "16:25"
+      "current": "Aventurierii",
+      "start": "03:00",
+      "end": "03:45",
+      "next": "O lume dispărută",
+      "nextStart": "03:45"
     },
     "axnspin": {
       "channel": "AXN Spin",
-      "current": "Chateau Diy",
-      "start": "15:01",
-      "end": "15:57",
-      "next": "Case de vacanță însorite",
-      "nextStart": "15:57"
+      "current": "Cum l-am prins pe criminal",
+      "start": "03:03",
+      "end": "03:49",
+      "next": "Surviving Evil",
+      "nextStart": "03:49"
     },
     "axnwhite": {
       "channel": "AXN White",
-      "current": "Foc salbatic",
-      "start": "15:05",
-      "end": "16:05",
+      "current": "Verdict crimă",
+      "start": "03:00",
+      "end": "03:45",
       "next": "Foc salbatic",
-      "nextStart": "16:05"
+      "nextStart": "03:45"
     },
     "b1tv": {
       "channel": "B1 TV",
-      "current": "Special B1",
-      "start": "15:00",
-      "end": "18:00",
-      "next": "Bună, România!",
-      "nextStart": "18:00"
+      "current": "Politica zilei",
+      "start": "01:50",
+      "end": "03:40",
+      "next": "News Pass",
+      "nextStart": "03:40"
     },
     "bbcearth": {
       "channel": "BBC Earth",
-      "current": "Sub zero grade",
-      "start": "14:50",
-      "end": "15:50",
-      "next": "Unde se află oamenii sălbatici cu Ben Fogle",
-      "nextStart": "15:50"
+      "current": "Unde se află oamenii sălbatici cu Ben Fogle",
+      "start": "02:20",
+      "end": "03:20",
+      "next": "Secretele super-vârstnicilor",
+      "nextStart": "03:20"
     },
     "bbcfirst": {
       "channel": "BBC First",
-      "current": "Shakespeare şi Hathaway: detectivi particulari",
-      "start": "14:45",
-      "end": "15:45",
-      "next": "Shakespeare şi Hathaway: detectivi particulari",
-      "nextStart": "15:45"
+      "current": "Detectivul Din Chelsea",
+      "start": "03:00",
+      "end": "03:55",
+      "next": "Lewis",
+      "nextStart": "03:55"
     },
     "bollywoodfilm": {
       "channel": "Bollywood Film",
-      "current": "Diagnostic... dragoste!",
-      "start": "13:35",
-      "end": "16:10",
-      "next": "Vreau să fiu al tău",
-      "nextStart": "16:10"
+      "current": "Povestea unui ateu",
+      "start": "01:55",
+      "end": "04:30",
+      "next": "Pamantul - 1947",
+      "nextStart": "04:30"
     },
     "cartoonito": {
       "channel": "Cartoonito",
-      "current": "Grizzy şi lemingii",
-      "start": "15:40",
-      "end": "15:55",
-      "next": "Ben 10",
-      "nextStart": "15:55"
+      "current": "Mr. Bean: Seria animată",
+      "start": "03:05",
+      "end": "03:15",
+      "next": "Mr. Bean: Seria animată",
+      "nextStart": "03:15"
     },
     "cartoonnetwork": {
       "channel": "Cartoon Network",
       "current": "Uimitoarea lume a lui Gumball",
-      "start": "15:25",
-      "end": "15:45",
-      "next": "Spioanele!",
-      "nextStart": "15:45"
+      "start": "03:10",
+      "end": "03:20",
+      "next": "Uimitoarea lume a lui Gumball",
+      "nextStart": "03:20"
     },
     "cinemaraton": {
       "channel": "Cinemaraton",
-      "current": "Dragostea începe vineri",
-      "start": "14:55",
-      "end": "16:25",
-      "next": "Sfânta Tereza și diavolii",
-      "nextStart": "16:25"
+      "current": "Arest",
+      "start": "02:15",
+      "end": "04:30",
+      "next": "Săgeata căpitanului Ion",
+      "nextStart": "04:30"
     },
     "cinemax": {
       "channel": "Cinemax",
-      "current": "Lămâiul",
-      "start": "15:10",
-      "end": "17:00",
-      "next": "Lupta invizibilă",
-      "nextStart": "17:00"
+      "current": "Weekendul",
+      "start": "02:35",
+      "end": "04:30",
+      "next": "Rain Man",
+      "nextStart": "04:30"
     },
     "cinemax2": {
       "channel": "Cinemax 2",
-      "current": "Tortul președintelui",
-      "start": "15:05",
-      "end": "16:50",
-      "next": "Nimic personal",
-      "nextStart": "16:50"
+      "current": "Imperiul",
+      "start": "01:55",
+      "end": "03:45",
+      "next": "Înotând spre casă",
+      "nextStart": "03:45"
     },
     "comedycentral": {
       "channel": "Comedy Central",
-      "current": "Doctor Becker",
-      "start": "15:20",
-      "end": "15:50",
-      "next": "Doctor Becker",
-      "nextStart": "15:50"
+      "current": "South Park",
+      "start": "03:00",
+      "end": "03:30",
+      "next": "Beavis and Butt-Head",
+      "nextStart": "03:30"
     },
     "credotv": {
       "channel": "Credo TV",
-      "current": "Viață, pe bune! (r)",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Ferestre Spre Cer",
-      "nextStart": "16:00"
+      "current": "Realitatea La Zi (r)",
+      "start": "03:00",
+      "end": "04:00",
+      "next": "ÉLETFORRÁS (r)",
+      "nextStart": "04:00"
     },
     "crimeinvestigation": {
       "channel": "Crime + Investigation",
-      "current": "Crime din gelozie",
-      "start": "15:30",
-      "end": "16:15",
-      "next": "Întâlnire, căsătorie, crimă",
-      "nextStart": "16:15"
+      "current": "Medici care ucid",
+      "start": "02:45",
+      "end": "03:30",
+      "next": "Crime în lumina soarelui",
+      "nextStart": "03:30"
     },
     "digi24": {
       "channel": "Digi 24",
-      "current": "Știrile amiezii",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Știrile zilei",
-      "nextStart": "16:00"
+      "current": "Jurnalul de seară",
+      "start": "01:00",
+      "end": "04:00",
+      "next": "Roboost (r)",
+      "nextStart": "04:00"
     },
     "digianimalworld": {
       "channel": "Digi Animal World",
-      "current": "Destinație sălbatică: Mediterana",
-      "start": "15:30",
-      "end": "16:25",
-      "next": "Rețelele sociale ale animalelor",
-      "nextStart": "16:25"
+      "current": "Închiderea programului",
+      "start": "02:50",
+      "end": "08:00",
+      "next": "Sălbatic, cerul",
+      "nextStart": "08:00"
     },
     "digisport1": {
       "channel": "Digi Sport 1",
-      "current": "LIVE Liga Digi Sport",
-      "start": "15:00",
-      "end": "16:30",
-      "next": "LIVE Stirile Digi Sport",
-      "nextStart": "16:30"
+      "current": "Liga a 2-a: Steaua-Chindia Targoviste Etapa 14",
+      "start": "02:00",
+      "end": "03:45",
+      "next": "Superliga: Sepsi Sfantu Gheorghe-Rapid Etapa 16",
+      "nextStart": "03:45"
     },
     "digisport2": {
       "channel": "Digi Sport 2",
-      "current": "La Liga: Barcelona-Villarreal Etapa 13",
-      "start": "14:30",
-      "end": "16:15",
-      "next": "Stirile Digi Sport",
-      "nextStart": "16:15"
+      "current": "Serie A: Milan-Frosinone Etapa 12",
+      "start": "01:45",
+      "end": "03:30",
+      "next": "Bundesliga: Bayern Munchen-Koln Etapa 10",
+      "nextStart": "03:30"
     },
     "digisport3": {
       "channel": "Digi Sport 3",
-      "current": "Stirile Digi Sport",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Interviurile Digi Sport Ioan Becali",
-      "nextStart": "16:00"
+      "current": "Champions League: Rezumate Etapa 4",
+      "start": "02:30",
+      "end": "03:15",
+      "next": "Stirile Digi Sport",
+      "nextStart": "03:15"
     },
     "digisport4": {
       "channel": "Digi Sport 4",
-      "current": "Moto: Marele Premiu al Portugaliei Curse Moto2/ MotoGP/ Moto3",
-      "start": "13:30",
-      "end": "17:00",
-      "next": "Patinaj artistic: ISU Grand Prix Helsinki Women (Short Program)/ Men (Short Program)",
-      "nextStart": "17:00"
+      "current": "La Liga: Barcelona-Villarreal Etapa 13",
+      "start": "01:45",
+      "end": "03:30",
+      "next": "Serie A: Juventus-Venezia Etapa 12",
+      "nextStart": "03:30"
     },
     "digiworld": {
       "channel": "Digi World",
-      "current": "Cum au reparat asta?",
-      "start": "15:30",
-      "end": "16:14",
-      "next": "Filler DIGIPEDIA SOS",
-      "nextStart": "16:14"
+      "current": "Islanda",
+      "start": "02:50",
+      "end": "03:45",
+      "next": "Lasă-te ghidat !",
+      "nextStart": "03:45"
     },
     "discoverychannel": {
       "channel": "Discovery Channel",
-      "current": "Test de supravieţuire în doi",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Comori arhitecturale recuperate",
-      "nextStart": "16:00"
+      "current": "Test de supravieţuire: Printre rechini",
+      "start": "02:27",
+      "end": "04:24",
+      "next": "Maşini pe alese",
+      "nextStart": "04:24"
     },
     "disneychannel": {
       "channel": "Disney Channel",
-      "current": "Dragon Striker: Season 1",
-      "start": "15:15",
-      "end": "15:45",
-      "next": "Miraculous: Buburuza și Motan Noir",
-      "nextStart": "15:45"
+      "current": "Casa bufnițelor",
+      "start": "03:00",
+      "end": "03:25",
+      "next": "Casa bufnițelor",
+      "nextStart": "03:25"
     },
     "disneyjunior": {
       "channel": "Disney Junior",
-      "current": "Păienjenelul Marvel Și Prietenii Lui Uimitori",
-      "start": "15:30",
-      "end": "16:00",
-      "next": "Blue",
-      "nextStart": "16:00"
+      "current": "Robogobo",
+      "start": "02:50",
+      "end": "03:15",
+      "next": "Robogobo",
+      "nextStart": "03:15"
     },
     "diva": {
       "channel": "Diva",
-      "current": "Crăciunul la ferma Fields",
-      "start": "14:00",
-      "end": "16:00",
-      "next": "Crăciunul lui \\\"Da\\\"",
-      "nextStart": "16:00"
+      "current": "Crăciun fericit, Ted Cooper!",
+      "start": "02:00",
+      "end": "04:00",
+      "next": "Crăciunul lui Holly: Aprindeți luminile!",
+      "nextStart": "04:00"
     },
     "dizitv": {
       "channel": "Dizi TV",
-      "current": "Vinovaţi de iubire",
-      "start": "15:20",
-      "end": "16:05",
-      "next": "Vinovaţi de iubire",
-      "nextStart": "16:05"
+      "current": "A doua șansă",
+      "start": "02:50",
+      "end": "03:40",
+      "next": "Cercul",
+      "nextStart": "03:40"
     },
     "ducktv": {
       "channel": "Duck TV",
-      "current": "Hop-hop",
-      "start": "15:41",
-      "end": "15:44",
-      "next": "Lola and the Numbers",
-      "nextStart": "15:44"
+      "current": "Imagini fascinante",
+      "start": "03:13",
+      "end": "03:15",
+      "next": "Sunete jucăuşe",
+      "nextStart": "03:15"
     },
     "emitv": {
       "channel": "EMI TV",
-      "current": "Artistii si muzica sufletului tau",
-      "start": "15:00",
-      "end": "18:00",
-      "next": "Artistii si muzica sufletului tau",
-      "nextStart": "18:00"
+      "current": "Direct pentru tine",
+      "start": "01:00",
+      "end": "08:00",
+      "next": "Direct pentru tine",
+      "nextStart": "08:00"
     },
     "epicdrama": {
       "channel": "Epic Drama",
-      "current": "Toate viețuitoarele mari și mici",
-      "start": "15:00",
-      "end": "16:10",
-      "next": "The Forsytes",
-      "nextStart": "16:10"
+      "current": "Bookish",
+      "start": "02:35",
+      "end": "03:50",
+      "next": "Miss Marple",
+      "nextStart": "03:50"
     },
     "etnotv": {
       "channel": "Etno TV",
-      "current": "Bijuterii TV – teleshopping LIVE",
-      "start": "14:30",
-      "end": "16:00",
-      "next": "Sănătate înainte de toate",
-      "nextStart": "16:00"
+      "current": "Seară Românească",
+      "start": "01:30",
+      "end": "04:00",
+      "next": "Matinali și populari",
+      "nextStart": "04:00"
     },
     "euronewsromania": {
       "channel": "Euronews România",
-      "current": "Euronews Now",
-      "start": "15:30",
-      "end": "15:42",
-      "next": "News",
-      "nextStart": "15:42"
+      "current": "News",
+      "start": "03:12",
+      "end": "03:30",
+      "next": "The European debrief",
+      "nextStart": "03:30"
     },
     "eurosport1": {
       "channel": "Eurosport 1",
-      "current": "Sărituri cu schiurile: Cupa Mondială - Lillehammer - Feminin HS 140",
-      "start": "15:30",
-      "end": "16:15",
-      "next": "Sărituri cu schiurile: Cupa Mondială - Lillehammer - Masculin HS 140",
-      "nextStart": "16:15"
+      "current": "Schi alpin: Cupa Mondială - Levi - Slalom Masculin",
+      "start": "02:30",
+      "end": "03:15",
+      "next": "Schi alpin: Cupa Mondială - Levi - Slalom Masculin",
+      "nextStart": "03:15"
     },
     "eurosport2": {
       "channel": "Eurosport 2",
-      "current": "Schi alpin: Cupa Mondială - Gurgl - Slalom Masculin",
-      "start": "15:30",
-      "end": "16:00",
-      "next": "Anduranță auto: FIA WEC - Cursa de 24 de ore de la Le Mans",
-      "nextStart": "16:00"
+      "current": "Sărituri cu schiurile: Cupa Mondială - Lillehammer - Feminin HS 140",
+      "start": "03:00",
+      "end": "04:00",
+      "next": "Schi alpin: Cupa Mondială - Gurgl - Slalom Feminin",
+      "nextStart": "04:00"
     },
     "favorittv": {
       "channel": "Favorit TV",
-      "current": "Teleshopping",
-      "start": "15:30",
-      "end": "15:45",
-      "next": "Favoriţii sunteţi voi",
-      "nextStart": "15:45"
+      "current": "Spectacol Radio – Lia Bologa",
+      "start": "03:00",
+      "end": "05:30",
+      "next": "Călător prin folclor",
+      "nextStart": "05:30"
     },
     "filmbox": {
       "channel": "FilmBox",
-      "current": "Magnifica familie Amberson",
-      "start": "14:25",
-      "end": "16:30",
-      "next": "Ai grijă",
-      "nextStart": "16:30"
+      "current": "Petunia",
+      "start": "01:40",
+      "end": "03:30",
+      "next": "Ea nu e un înger",
+      "nextStart": "03:30"
     },
     "filmboxextra": {
       "channel": "FilmBox Extra",
-      "current": "Curiozitate spațială",
-      "start": "15:40",
-      "end": "17:15",
-      "next": "Bătrânul și arma",
-      "nextStart": "17:15"
+      "current": "Înșelătorie absolută",
+      "start": "02:40",
+      "end": "04:10",
+      "next": "În Gaza",
+      "nextStart": "04:10"
     },
     "filmboxfamily": {
       "channel": "FilmBox Family",
-      "current": "Marmalade",
-      "start": "14:25",
-      "end": "16:05",
-      "next": "Săracele fete bogate",
-      "nextStart": "16:05"
+      "current": "Stan Helsing",
+      "start": "01:45",
+      "end": "03:15",
+      "next": "Night Board",
+      "nextStart": "03:15"
     },
     "filmboxpremium": {
       "channel": "FilmBox Premium",
-      "current": "Houdini: Ultimul magician",
-      "start": "15:20",
-      "end": "16:55",
-      "next": "Un ultim lucru",
-      "nextStart": "16:55"
+      "current": "Eroi de sacrificiu 2",
+      "start": "02:40",
+      "end": "04:20",
+      "next": "Fight or Flight",
+      "nextStart": "04:20"
     },
     "filmcafe": {
       "channel": "Film Cafe",
-      "current": "Cavalerii mesei rotunde",
-      "start": "15:10",
-      "end": "18:05",
-      "next": "Banana Joe",
-      "nextStart": "18:05"
+      "current": "Lumea de dincolo 2: Evolutia",
+      "start": "02:55",
+      "end": "04:55",
+      "next": "Close Up",
+      "nextStart": "04:55"
     },
     "filmnow": {
       "channel": "Film Now",
-      "current": "Revoluția lui Iisus",
-      "start": "14:35",
-      "end": "16:30",
-      "next": "Mașinării infernale",
-      "nextStart": "16:30"
+      "current": "Nu e loc de iertare",
+      "start": "02:55",
+      "end": "04:25",
+      "next": "Sfaturi în dragoste",
+      "nextStart": "04:25"
     },
     "happychannel": {
       "channel": "Happy Channel",
-      "current": "Happy Café",
-      "start": "15:30",
-      "end": "16:00",
-      "next": "Dragoste și ură",
-      "nextStart": "16:00"
+      "current": "Dragoste și ură",
+      "start": "02:15",
+      "end": "04:00",
+      "next": "Happy Café",
+      "nextStart": "04:00"
     },
     "hbo": {
       "channel": "HBO",
-      "current": "Terenul de joacă",
-      "start": "14:40",
-      "end": "16:05",
-      "next": "Playdate",
-      "nextStart": "16:05"
+      "current": "M3GAN",
+      "start": "02:30",
+      "end": "04:10",
+      "next": "Abigail",
+      "nextStart": "04:10"
     },
     "hbo2": {
       "channel": "HBO 2",
-      "current": "Supergirl",
-      "start": "15:21",
-      "end": "17:10",
-      "next": "Spencer",
-      "nextStart": "17:10"
+      "current": "The Beast Within",
+      "start": "01:41",
+      "end": "03:16",
+      "next": "Baby Driver: Calc-o şi fugi!",
+      "nextStart": "03:16"
     },
     "hbo3": {
       "channel": "HBO 3",
-      "current": "King Arthur: Legenda sabiei",
-      "start": "14:30",
-      "end": "16:35",
-      "next": "Creed III",
-      "nextStart": "16:35"
+      "current": "Christy",
+      "start": "02:10",
+      "end": "03:45",
+      "next": "Epoca de Aur",
+      "nextStart": "03:45"
     },
     "hgtv": {
       "channel": "HGTV",
-      "current": "Design în stil australian",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Design în stil australian",
-      "nextStart": "16:00"
+      "current": "Câștigător la loterie, cumpăr casă",
+      "start": "03:00",
+      "end": "03:30",
+      "next": "Câștigător la loterie, cumpăr casă",
+      "nextStart": "03:30"
     },
     "inedittv": {
       "channel": "Inedit TV",
-      "current": "Teleshopping",
-      "start": "15:00",
-      "end": "16:30",
-      "next": "Muzica anilor",
-      "nextStart": "16:30"
+      "current": "Hituri muzicale nocturne",
+      "start": "00:00",
+      "end": "06:00",
+      "next": "Răsărit cu voie bună",
+      "nextStart": "06:00"
     },
     "jimjam": {
       "channel": "JimJam",
-      "current": "Tripeţii",
-      "start": "15:37",
-      "end": "15:45",
-      "next": "Tripeţii",
-      "nextStart": "15:45"
+      "current": "Kipper",
+      "start": "03:13",
+      "end": "03:23",
+      "next": "Robomobilul Poli",
+      "nextStart": "03:23"
     },
     "jobtv": {
       "channel": "Job TV",
-      "current": "Profitabil",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Job pe glob",
-      "nextStart": "16:00"
+      "current": "Preluare Party Mix Tv",
+      "start": "02:30",
+      "end": "07:30",
+      "next": "Jobul zilei",
+      "nextStart": "07:30"
     },
     "kanald": {
       "channel": "Kanal D",
-      "current": "Jocul cuvintelor cu Dan Negru",
-      "start": "15:00",
-      "end": "16:30",
-      "next": "Casa iubirii",
-      "nextStart": "16:30"
+      "current": "Casa iubirii",
+      "start": "02:00",
+      "end": "05:15",
+      "next": "Știrile Kanal D",
+      "nextStart": "05:15"
     },
     "kisstv": {
       "channel": "Kiss TV",
-      "current": "Kiss After School",
-      "start": "13:00",
-      "end": "16:00",
-      "next": "Hits For Hours",
-      "nextStart": "16:00"
+      "current": "Kiss By Night",
+      "start": "02:00",
+      "end": "06:00",
+      "next": "Rise & Kiss",
+      "nextStart": "06:00"
     },
     "magictv": {
       "channel": "Magic TV",
-      "current": "Magic Afternoon Coffee",
-      "start": "13:00",
-      "end": "16:00",
-      "next": "Magic Drive Music",
-      "nextStart": "16:00"
+      "current": "Magic Night Hits",
+      "start": "22:00",
+      "end": "06:00",
+      "next": "MAGIC START",
+      "nextStart": "06:00"
     },
     "metropolatv": {
       "channel": "Metropola TV",
-      "current": "Teleshopping",
-      "start": "15:30",
-      "end": "16:00",
+      "current": "Dimineți cu Georgia și Vali",
+      "start": "02:30",
+      "end": "04:00",
       "next": "60 de minute",
-      "nextStart": "16:00"
+      "nextStart": "04:00"
     },
     "mezzo": {
       "channel": "Mezzo",
-      "current": "Tchaikovsky: Eugene Onegin - Teatro Real, Madrid",
-      "start": "13:15",
-      "end": "15:50",
-      "next": "Rivalry in Music – Callas vs. Tebaldi",
-      "nextStart": "15:50"
+      "current": "Israel Fernández - Festival de Granada",
+      "start": "02:48",
+      "end": "03:33",
+      "next": "Robert Glasper Trio - Fondation Louis Vuitton, Paris",
+      "nextStart": "03:33"
     },
     "minimax": {
       "channel": "Minimax",
-      "current": "H2o: Mermaid Adventure",
-      "start": "15:30",
-      "end": "16:00",
-      "next": "Underdog",
-      "nextStart": "16:00"
+      "current": "Geronimo Stilton",
+      "start": "03:10",
+      "end": "03:35",
+      "next": "Geronimo Stilton",
+      "nextStart": "03:35"
     },
     "moldovatv": {
       "channel": "Moldova TV",
-      "current": "Trasee Turistice",
-      "start": "15:30",
-      "end": "16:00",
-      "next": "Un Cântec, Un Dar",
-      "nextStart": "16:00"
+      "current": "Retro Show",
+      "start": "03:00",
+      "end": "03:30",
+      "next": "Retro Show",
+      "nextStart": "03:30"
     },
     "nationaltv": {
       "channel": "Național TV",
-      "current": "Anupamaa",
-      "start": "15:15",
-      "end": "16:15",
-      "next": "Dragoste de soacră",
-      "nextStart": "16:15"
+      "current": "Commando 2",
+      "start": "01:45",
+      "end": "04:15",
+      "next": "Vouă",
+      "nextStart": "04:15"
     },
     "nickelodeon": {
       "channel": "Nickelodeon",
       "current": "Un show cu Patrick Stea",
-      "start": "15:30",
-      "end": "15:55",
+      "start": "03:05",
+      "end": "03:20",
       "next": "SpongeBob Pantaloni Pătrați",
-      "nextStart": "15:55"
+      "nextStart": "03:20"
     },
     "nickjr": {
       "channel": "Nick Jr.",
-      "current": "Navigăm cu Santiago",
-      "start": "15:25",
-      "end": "15:50",
-      "next": "Navigăm cu Santiago",
-      "nextStart": "15:50"
+      "current": "Ghicitoarea lui Bleu",
+      "start": "03:10",
+      "end": "03:35",
+      "next": "Tim Rex în spațiu",
+      "nextStart": "03:35"
     },
     "nicktoons": {
       "channel": "Nicktoons",
-      "current": "Pinky Malinky",
-      "start": "15:35",
-      "end": "16:00",
-      "next": "Un show cu Patrick Stea",
-      "nextStart": "16:00"
+      "current": "Hamsters of Hamsterdale",
+      "start": "02:55",
+      "end": "03:15",
+      "next": "Shimmer și Shine",
+      "nextStart": "03:15"
     },
     "orizonttv": {
       "channel": "Orizont TV",
-      "current": "Un cântec pentru fiecare",
-      "start": "15:30",
-      "end": "18:30",
-      "next": "Oameni de lângă noi",
-      "nextStart": "18:30"
+      "current": "Muzică",
+      "start": "01:00",
+      "end": "06:00",
+      "next": "Muzică",
+      "nextStart": "06:00"
     },
     "partymix": {
       "channel": "Party Mix",
-      "current": "Hai la joc la joc la joc, să vă fie cu noroc",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Hai la joc la joc la joc, să vă fie cu noroc",
-      "nextStart": "16:00"
+      "current": "Să petrecem până-n zori",
+      "start": "03:00",
+      "end": "04:00",
+      "next": "Să petrecem până-n zori",
+      "nextStart": "04:00"
     },
     "primanews": {
       "channel": "Prima News",
       "current": "Sistemul Medikal",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Focus 14 Inregistrat",
-      "nextStart": "16:00"
+      "start": "03:00",
+      "end": "04:00",
+      "next": "Focus 18 Inregistrat",
+      "nextStart": "04:00"
     },
     "primasport1": {
       "channel": "Prima Sport 1",
-      "current": "Fotbal Show",
-      "start": "15:30",
-      "end": "17:00",
-      "next": "Steaua – Chindia",
-      "nextStart": "17:00"
+      "current": "ACS Sepsi OSK Sf. Ghoerghe – Rapid București",
+      "start": "01:30",
+      "end": "03:30",
+      "next": "Ştirile Prima Sport",
+      "nextStart": "03:30"
     },
     "primasport2": {
       "channel": "Prima Sport 2",
-      "current": "Argeș – FCSB",
-      "start": "13:45",
-      "end": "15:45",
-      "next": "Teleshopping",
-      "nextStart": "15:45"
+      "current": "Rezumate La Liga",
+      "start": "03:00",
+      "end": "04:00",
+      "next": "Steaua – Chindia",
+      "nextStart": "04:00"
     },
     "primasport3": {
       "channel": "Prima Sport 3",
-      "current": "Atalanta – Inter",
-      "start": "15:15",
-      "end": "17:15",
+      "current": "Barcelona – Villarreal",
+      "start": "02:30",
+      "end": "04:30",
       "next": "Știrile Prima Sport",
-      "nextStart": "17:15"
+      "nextStart": "04:30"
     },
     "primasport4": {
       "channel": "Prima Sport 4",
       "current": "Tenis Atp",
-      "start": "15:00",
-      "end": "17:00",
+      "start": "03:00",
+      "end": "05:00",
       "next": "Tenis Atp",
-      "nextStart": "17:00"
+      "nextStart": "05:00"
     },
     "primasport5": {
       "channel": "Prima Sport 5",
-      "current": "Handbal Ehf: European League",
-      "start": "14:15",
-      "end": "15:45",
-      "next": "Baschet: Aba League",
-      "nextStart": "15:45"
+      "current": "Bremen – Hamburg",
+      "start": "02:15",
+      "end": "04:15",
+      "next": "Kocaelispor – Fenerbahce",
+      "nextStart": "04:15"
     },
     "primatv": {
       "channel": "Prima TV",
-      "current": "Exclusiv VIP",
-      "start": "14:50",
-      "end": "16:45",
-      "next": "Elisa",
-      "nextStart": "16:45"
+      "current": "Sinu, râul pasiunilor",
+      "start": "02:30",
+      "end": "03:30",
+      "next": "The Big Ugly",
+      "nextStart": "03:30"
     },
     "proarena": {
       "channel": "Pro Arena",
-      "current": "Faze tari şi minte multă",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Viper",
-      "nextStart": "16:00"
+      "current": "Batem palma?",
+      "start": "03:00",
+      "end": "03:45",
+      "next": "La bloc",
+      "nextStart": "03:45"
     },
     "procinema": {
       "channel": "Pro Cinema",
-      "current": "Uimitorul Om-Păianjen 2",
-      "start": "13:15",
-      "end": "16:15",
-      "next": "Cu mingea la picior",
-      "nextStart": "16:15"
+      "current": "Vorbeşte lumea",
+      "start": "02:30",
+      "end": "04:30",
+      "next": "La bloc",
+      "nextStart": "04:30"
     },
     "protv": {
       "channel": "PRO TV",
-      "current": "Fata din vis",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Lecţii de viaţă",
-      "nextStart": "16:00"
+      "current": "Vorbeşte lumea",
+      "start": "03:00",
+      "end": "05:00",
+      "next": "Batem palma?",
+      "nextStart": "05:00"
     },
     "realitateaplus": {
       "channel": "Realitatea Plus",
-      "current": "Raport de zi",
-      "start": "14:00",
-      "end": "16:00",
-      "next": "100%",
-      "nextStart": "16:00"
+      "current": "100%",
+      "start": "03:00",
+      "end": "04:00",
+      "next": "România suverană",
+      "nextStart": "04:00"
     },
     "rocktv": {
       "channel": "Rock TV",
-      "current": "Rockaholic",
-      "start": "10:00",
-      "end": "19:00",
-      "next": "Rock This Way",
-      "nextStart": "19:00"
+      "current": "Hard Nights",
+      "start": "00:00",
+      "end": "06:00",
+      "next": "We Will Rock You",
+      "nextStart": "06:00"
     },
     "romaniatv": {
       "channel": "România TV",
-      "current": "Ştirile România TV",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Ştirile România TV",
-      "nextStart": "16:00"
+      "current": "Ultima oră",
+      "start": "03:00",
+      "end": "04:00",
+      "next": "Newsline - 20.00",
+      "nextStart": "04:00"
     },
     "sperantatv": {
       "channel": "Speranța TV",
-      "current": "Jurnal de credință (r)",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "Pâinea cea de toate zilele (r)",
-      "nextStart": "16:00"
+      "current": "Lecția de viață (r)",
+      "start": "03:00",
+      "end": "04:00",
+      "next": "Popas de suflet (r)",
+      "nextStart": "04:00"
     },
     "taraftv": {
       "channel": "Taraf TV",
       "current": "Videodedicaţii",
-      "start": "14:45",
-      "end": "20:00",
+      "start": "01:00",
+      "end": "08:30",
       "next": "Videodedicaţii",
-      "nextStart": "20:00"
+      "nextStart": "08:30"
     },
     "traceurban": {
       "channel": "Trace Urban",
-      "current": "URBAN VIBES",
-      "start": "15:00",
-      "end": "19:00",
-      "next": "Hit 10",
-      "nextStart": "19:00"
+      "current": "TRACE BY NIGHT",
+      "start": "03:00",
+      "end": "04:00",
+      "next": "TRACE BY NIGHT",
+      "nextStart": "04:00"
     },
     "tralala": {
       "channel": "TraLaLa",
-      "current": "Carusel muzical",
-      "start": "12:00",
-      "end": "16:00",
-      "next": "Ora de engleză",
-      "nextStart": "16:00"
+      "current": "Carusel muzical (reluare)",
+      "start": "01:00",
+      "end": "05:00",
+      "next": "Top Tralala (reluare)",
+      "nextStart": "05:00"
     },
     "tvpaprika": {
       "channel": "TV Paprika",
-      "current": "Prue Leith: Bucătăria mea din Cotswold",
-      "start": "14:55",
-      "end": "15:55",
-      "next": "Mary Berry - Delicatese simple",
-      "nextStart": "15:55"
+      "current": "River Cottage în Australia",
+      "start": "02:40",
+      "end": "03:40",
+      "next": "Curs de gătit superior cu Gordon",
+      "nextStart": "03:40"
     },
     "tvr1": {
       "channel": "TVR 1",
-      "current": "Maghiara de pe unu",
-      "start": "15:40",
-      "end": "16:40",
-      "next": "Zi de zi cu părintele Constantin Necula",
-      "nextStart": "16:40"
+      "current": "Telejurnal",
+      "start": "03:00",
+      "end": "03:50",
+      "next": "Vorbeşte corect!",
+      "nextStart": "03:50"
     },
     "tvr2": {
       "channel": "TVR 2",
-      "current": "Mic dejun cu un campion",
-      "start": "15:00",
-      "end": "16:00",
-      "next": "AI idee?!",
-      "nextStart": "16:00"
+      "current": "Ora de ştiri",
+      "start": "03:00",
+      "end": "03:40",
+      "next": "E vremea ta!",
+      "nextStart": "03:40"
     },
     "utv": {
       "channel": "UTV",
-      "current": "Everything is awesome!",
-      "start": "14:00",
-      "end": "17:00",
-      "next": "All about music",
-      "nextStart": "17:00"
+      "current": "DND My Night",
+      "start": "01:00",
+      "end": "07:00",
+      "next": "Coffee Sounds Great!",
+      "nextStart": "07:00"
     },
     "viasatexplore": {
       "channel": "Viasat Explore",
       "current": "Căutătorii de aur din Australia",
-      "start": "15:15",
-      "end": "16:10",
-      "next": "Regii automobilelor clasice",
-      "nextStart": "16:10"
+      "start": "02:50",
+      "end": "03:50",
+      "next": "Căutătorii de aur din Australia",
+      "nextStart": "03:50"
     },
     "viasathistory": {
       "channel": "Viasat History",
       "current": "ADN-ul lui Hitler: Codul unui dictator",
-      "start": "15:35",
-      "end": "16:40",
+      "start": "03:05",
+      "end": "04:10",
       "next": "ADN-ul lui Hitler: Codul unui dictator",
-      "nextStart": "16:40"
+      "nextStart": "04:10"
     },
     "warnertv": {
       "channel": "Warner TV",
-      "current": "Tânărul Sheldon",
-      "start": "15:40",
-      "end": "16:05",
-      "next": "Mike și Molly",
-      "nextStart": "16:05"
+      "current": "Stare de șoc",
+      "start": "03:00",
+      "end": "05:10",
+      "next": "Supergirl",
+      "nextStart": "05:10"
     }
   }
 }
